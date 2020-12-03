@@ -56,7 +56,7 @@
 
 <img align="left" alt="akshatatray's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=akshatatray&show_icons=true&title_color=000000&text_color=000000&icon_color=000000" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatatray&layout=compact" />
+<img align="center" height="177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatatray&layout=compact" />
 
 [instagram]: https://instagram.com/akshatatray
 [linkedin]: https://www.linkedin.com/in/akshat-atray-833a121ab/
