@@ -40,9 +40,10 @@
 <br/>
 
 ---
-
-<img align="left" alt="akshatatray's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatatray&show_icons=true&theme=material-palenight"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatatray&layout=compact&theme=material-palenight" />
+<span>
+<img alt="akshatatray's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatatray&show_icons=true&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatatray&layout=compact&theme=material-palenight" />
+</span>
 
 [instagram]: https://instagram.com/akshatatray
 [linkedin]: https://www.linkedin.com/in/akshat-atray-833a121ab/
