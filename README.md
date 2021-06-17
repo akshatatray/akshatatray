@@ -11,6 +11,8 @@
 
 <br />
 
+![](https://visitor-badge.glitch.me/badge?page_id=akshatatray)
+
 **Languages and Tools:**  
 
 <span>
@@ -40,9 +42,6 @@
 <img alt="akshatatray's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatatray&show_icons=true&theme=material-palenight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatatray&layout=compact&theme=material-palenight" />
 </span>
-
-<h4 align="center">Visitor's count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/akshatatray/count.svg" alt="Visitor's Count" /></p>
 
 [instagram]: https://instagram.com/akshatatray
 [linkedin]: https://www.linkedin.com/in/akshat-atray-833a121ab/
